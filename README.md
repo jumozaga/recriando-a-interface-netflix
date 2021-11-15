@@ -1,6 +1,6 @@
-PROJETO BOOTCAMP DIO - DIGITAL INNOVATION ONE
+#PROJETO BOOTCAMP DIO - DIGITAL INNOVATION ONE
 
-# recriando-a-interface-netflix
-HTML CSS JS
+##Recriando-a-interface-netflix
+###![GitHub top language](https://img.shields.io/github/languages/top/jumozaga/recriando-a-interface-netflix)
 
-https://gospelflixclone.netlify.app/ 
+#https://gospelflixclone.netlify.app/ 
